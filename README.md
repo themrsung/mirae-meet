@@ -1,46 +1,28 @@
-# Getting Started with Create React App
+# Meet
+(by Mirae Research)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `Meet`는 무엇인가요?
 
-## Available Scripts
+`Meet`는 진지한 만남을 추구하는 사람을 위한 소개팅 앱으로서, 다음과 같은 차별점을 갖고 있습니다.
 
-In the project directory, you can run:
+**평점 시스템 (총점 1000점)**
 
-### `npm start`
+1. 유저간 외모 평점 xxx/600점
+2. 답변속도 평점 xxx/250점
+3. 앱 내 활동점수 xxx/150점
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**`Explore` 화면**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+소개팅 앱의 첫 화면으로 많이 쓰이는 UI입니다. `Meet`의 `Explore`에서
+프로필 소개는 AI 기반 알고리즘 추천이 아닌 평점 시스템에 따른 랭킹에 따라 이루어집니다.
 
-### `npm test`
+평점의 상당 부분을 차지하는 답변속도와 앱 내 활동점수만으로도 본인의 프로필을 노출시킬 수 있어
+앱 내 체류시간을 늘릴 수 있습니다.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### **본 앱은 포트폴리오용 목업입니다.**
 
-### `npm run build`
+소프트웨어 외주 및 비즈니스 문의 환영합니다.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- 이메일: `themrsung@gmail.com`
+- 디스코드: `@themrsung`
+- 카카오톡: `@themrsung`
